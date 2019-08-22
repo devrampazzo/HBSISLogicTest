@@ -1,0 +1,11 @@
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\bin\Debug\netcoreapp2.1\HBSISLogicTest.deps.json
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\bin\Debug\netcoreapp2.1\HBSISLogicTest.runtimeconfig.json
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\bin\Debug\netcoreapp2.1\HBSISLogicTest.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\bin\Debug\netcoreapp2.1\HBSISLogicTest.dll
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\bin\Debug\netcoreapp2.1\HBSISLogicTest.pdb
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.dll
+C:\Users\Felipe\source\repos\HBSISLogicTest\HBSISLogicTest\obj\Debug\netcoreapp2.1\HBSISLogicTest.pdb
